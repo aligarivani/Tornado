@@ -7,7 +7,6 @@ import platform
 init()
 
 os_name = platform.uname()[0]
-print(os_name)
 
 
 def find():
@@ -35,4 +34,4 @@ def find():
     print(city)
 
 
-# find()
+find()
