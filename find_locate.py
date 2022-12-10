@@ -5,7 +5,7 @@ import time
 import os
 import platform
 init()
-
+# created by Ali Garivani
 os_name = platform.uname()[0]
 
 
